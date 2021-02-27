@@ -6,6 +6,7 @@
 * [WCOJs in RDBMSs](http://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) (VLDB 2020)
 * [Optimizing subgraph queries by combining binary and worst-case optimal joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) (VLDB 2019)
 * [Skew Strikes Back: New Developments in the Theory of Join Algorithms](https://arxiv.org/abs/1310.3314) (SIGMOD Record 2013)
+* [Optimizing One-time and Continuous Subgraph Queries using Worst-Case Optimal Joins](http://amine.io/papers/wco-optimizers-tods21.pdf) (ACM TODS 2021)
 
 ## Related papers/talks
 
