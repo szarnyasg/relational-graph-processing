@@ -13,3 +13,7 @@
 * [The Relational Data Borg is Learning](http://www.vldb.org/pvldb/vol13/p3502-olteanu.pdf), VLDB 2020 keynote
   * [slides, part 1](https://fdbresearch.github.io/slides/VLDB2020-keynote1-part1.pdf)
   * [slides, part 2](https://fdbresearch.github.io/slides/VLDB2020-keynote1-part2.pdf)
+
+## See also
+
+* [Integrating Column-Oriented Storage and Query Processing Techniques Into Graph Database Management Systems](https://arxiv.org/pdf/2103.02284.pdf)
