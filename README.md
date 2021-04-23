@@ -9,11 +9,13 @@
 
 ## Papers
 
+* [Worst-Case Optimal Join Algorithms](https://dl.acm.org/doi/10.1145/2213556.2213565) (PODS 2012)
+* [Skew Strikes Back: New Developments in the Theory of Join Algorithms](https://arxiv.org/abs/1310.3314) (SIGMOD Record 2013)
 * [Adopting Worst-Case Optimal Joins in Relational Database Systems](http://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) in the contest of Umbra (VLDB 2020)
 * [Towards Multi-way Join Aware Optimizer in SAP HANA](http://www.vldb.org/pvldb/vol13/p3019-wi.pdf) (VLDB 2020)
 * [Optimizing subgraph queries by combining binary and worst-case optimal joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) (VLDB 2019)
-* [Skew Strikes Back: New Developments in the Theory of Join Algorithms](https://arxiv.org/abs/1310.3314) (SIGMOD Record 2013)
 * [Optimizing One-time and Continuous Subgraph Queries using Worst-Case Optimal Joins](http://amine.io/papers/wco-optimizers-tods21.pdf) (ACM TODS 2021)
+* [Worst-Case Optimal Graph Joins in Almost No Space](http://aidanhogan.com/docs/wco-ring.pdf) (SIGMOD 2021)
 
 ## Related papers/talks
 
