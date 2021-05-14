@@ -1,11 +1,15 @@
-# Worst-Case Optimal Joins
+# Worst-Case Optimal Join (WCOJ) Algorithms and Factorized Query Processing
+
+* [WCOJ]: worst-case optimal joins
+* [FACT]: factorized query processing
 
 ## Lectures and Tutorials
 
-* [Lecture by Semih Salihoglu](https://www.youtube.com/watch?v=Hn2XRv8dU5k) at Pinterest Labs (2021)
-* [Lecture by Dan Olteanu](https://www.youtube.com/watch?v=KYgG72oQhOw) (2018)
-* [Lectures series by Dan Olteanu](https://www.youtube.com/watch?v=uaHSAolWTiI&list=PLVjVSqmQgPG_6XsFfv9sTMd5EpWjkfRiX)
-* SIGMOD 2020 tutorial: [Optimal Join Algorithms Meet Top-k](https://northeastern-datalab.github.io/topk-join-tutorial/)
+* [Lecture by Semih Salihoglu](https://www.youtube.com/watch?v=Hn2XRv8dU5k) at Pinterest Labs (2021) [WCOJ] [FACT]
+* [Lecture by Dan Olteanu](https://www.youtube.com/watch?v=KYgG72oQhOw) (2018) [WCOJ] [FACT]
+* [Lectures series by Dan Olteanu](https://www.youtube.com/watch?v=uaHSAolWTiI&list=PLVjVSqmQgPG_6XsFfv9sTMd5EpWjkfRiX) [WCOJ] [FACT]
+  * [slides](http://www.cs.ox.ac.uk/dan.olteanu/tutorials/fdb-turing17.pdf)
+* SIGMOD 2020 tutorial: [Optimal Join Algorithms Meet Top-k](https://northeastern-datalab.github.io/topk-join-tutorial/) [WCOJ]
 
 ## Papers
 
@@ -30,6 +34,10 @@
 * [The Relational Data Borg is Learning](http://www.vldb.org/pvldb/vol13/p3502-olteanu.pdf), VLDB 2020 keynote
   * [slides, part 1](https://fdbresearch.github.io/slides/VLDB2020-keynote1-part1.pdf)
   * [slides, part 2](https://fdbresearch.github.io/slides/VLDB2020-keynote1-part2.pdf)
+
+## Factorized joins
+
+* [Factorized Databases](https://sigmodrecord.org/publications/sigmodRecord/1606/pdfs/03_principles_Olteanu.pdf) (SIGMOD Record 2016)
 
 ## See also
 
