@@ -1,4 +1,6 @@
-# Worst-Case Optimal Join (WCOJ) Algorithms and Factorized Query Processing
+# Efficient Graph Processing Using Relational Operators
+
+## Worst-Case Optimal Join (WCOJ) Algorithms and Factorized Query Processing
 
 * [WCOJ]: worst-case optimal joins
 * [FACT]: factorized query processing
