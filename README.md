@@ -12,6 +12,8 @@
 * [Lectures series by Dan Olteanu](https://www.youtube.com/watch?v=uaHSAolWTiI&list=PLVjVSqmQgPG_6XsFfv9sTMd5EpWjkfRiX) `[WCOJ]` `[FACT]`
   * [Slides](http://www.cs.ox.ac.uk/dan.olteanu/tutorials/fdb-turing17.pdf)
 * SIGMOD 2020 tutorial: [Optimal Join Algorithms Meet Top-k](https://northeastern-datalab.github.io/topk-join-tutorial/) `[WCOJ]`
+* [LIquid: Soul of a New Graph Database](https://uwaterloo.ca/data-systems-group/events/dsg-seminar-series-liquid-soul-new-graph-database) by Scott Meyer, presented at the University of Waterloo's DSG Seminar Series
+  * [YouTube](https://www.youtube.com/watch?v=wKx-YZn9YQk)
 
 ## Papers
 
