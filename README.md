@@ -38,7 +38,11 @@
 * [The case against specialized graph analytics engines](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper20.pdf) (CIDR 2015), a paper showing how implementing graph algorithms (SSSP, PageRank, connected components) in T-SQL (Microsoft SQL Server) can outperform the implementations of dedicated graph analytics engines
 * [In-database connected component analysis](https://arxiv.org/pdf/1802.09478.pdf) (ICDE 2020), a connected components implementation in SQL
 
-## Related papers/talks
+## Papers on data structures and indexing
+
+* [A+ Indexes: Tunable and Space-Efficient Adjacency Lists in Graph Database Management Systems](https://arxiv.org/pdf/2004.00130.pdf) (ICDE 2020)
+
+## Loosely related papers/talks
 
 * [The Relational Data Borg is Learning](http://www.vldb.org/pvldb/vol13/p3502-olteanu.pdf), VLDB 2020 keynote
   * [Slides, part 1](https://fdbresearch.github.io/slides/VLDB2020-keynote1-part1.pdf)
