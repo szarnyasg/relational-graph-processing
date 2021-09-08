@@ -15,7 +15,7 @@
 * [LIquid: Soul of a New Graph Database](https://uwaterloo.ca/data-systems-group/events/dsg-seminar-series-liquid-soul-new-graph-database) by Scott Meyer, presented at the University of Waterloo's DSG Seminar Series
   * [YouTube](https://www.youtube.com/watch?v=wKx-YZn9YQk)
 
-## Papers
+## Papers on worst-case optimal joins
 
 ### Theory
 
@@ -32,6 +32,11 @@
 * [A Worst-Case Optimal Join Algorithm for SPARQL](http://aidanhogan.com/docs/SPARQL_worst_case_optimal.pdf) (ISWC 2019)
 * [Towards Multi-way Join Aware Optimizer in SAP HANA](http://www.vldb.org/pvldb/vol13/p3019-wi.pdf) (VLDB 2020)
 * [Adopting Worst-Case Optimal Joins in Relational Database Systems](http://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) in the contest of Umbra (VLDB 2020)
+
+## Papers on graph analytics
+
+* [The case against specialized graph analytics engines](http://cidrdb.org/cidr2015/Papers/CIDR15_Paper20.pdf) (CIDR 2015), a paper showing how implementing graph algorithms (SSSP, PageRank, connected components) in T-SQL (Microsoft SQL Server) can outperform the implementations of dedicated graph analytics engines
+* [In-database connected component analysis](https://arxiv.org/pdf/1802.09478.pdf) (ICDE 2020), a connected components implementation in SQL
 
 ## Related papers/talks
 
