@@ -32,6 +32,7 @@
 * [A Worst-Case Optimal Join Algorithm for SPARQL](http://aidanhogan.com/docs/SPARQL_worst_case_optimal.pdf) (ISWC 2019)
 * [Towards Multi-way Join Aware Optimizer in SAP HANA](http://www.vldb.org/pvldb/vol13/p3019-wi.pdf) (VLDB 2020)
 * [Adopting Worst-Case Optimal Joins in Relational Database Systems](http://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) in the contest of Umbra (VLDB 2020)
+* [GRainDB: A Hybrid Graph-Relational DBMS](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/semih-salihoglu-graindb.pdf) ([recording](https://www.youtube.com/watch?v=FFK3y6vPHJs)) by Semih Salihoglu (LDBC TUC 2021)
 
 ## Papers on graph analytics
 
