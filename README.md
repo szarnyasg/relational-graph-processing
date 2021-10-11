@@ -56,3 +56,4 @@
 ## See also
 
 * [Integrating Column-Oriented Storage and Query Processing Techniques Into Graph Database Management Systems](https://arxiv.org/pdf/2103.02284.pdf)
+* [Making RDBMSs Efficient on Graph Workloads Through Predefined Joins](https://arxiv.org/pdf/2108.10540.pdf)
