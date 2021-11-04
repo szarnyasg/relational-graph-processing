@@ -7,7 +7,7 @@
 
 ## Lectures and Tutorials
 
-* [Lecture by Semih Salihoglu](https://www.youtube.com/watch?v=Hn2XRv8dU5k) at Pinterest Labs (2021) `[WCOJ]` `[FACT]`
+* [Lecture by Semih Salihoglu: GraphflowDB and Modern Query Processing Techniques for GDBMSs](https://www.youtube.com/watch?v=Hn2XRv8dU5k) at Pinterest Labs (2021) `[WCOJ]` `[FACT]`
 * [Lecture by Dan Olteanu](https://www.youtube.com/watch?v=KYgG72oQhOw) (2018) `[WCOJ]` `[FACT]`
 * [Lectures series by Dan Olteanu](https://www.youtube.com/watch?v=uaHSAolWTiI&list=PLVjVSqmQgPG_6XsFfv9sTMd5EpWjkfRiX) `[WCOJ]` `[FACT]`
   * [Slides](http://www.cs.ox.ac.uk/dan.olteanu/tutorials/fdb-turing17.pdf)
