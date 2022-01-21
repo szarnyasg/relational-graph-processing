@@ -38,9 +38,9 @@ Papers from the University of Waterloo:
 
 Other papers:
 
-* [Adopting Worst-Case Optimal Joins in Relational Database Systems](http://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) in the context of Umbra (VLDB 2020)
-* [Towards Multi-way Join Aware Optimizer in SAP HANA](http://www.vldb.org/pvldb/vol13/p3019-wi.pdf) (VLDB 2020)
-* [A Worst-Case Optimal Join Algorithm for SPARQL](http://aidanhogan.com/docs/SPARQL_worst_case_optimal.pdf) (ISWC 2019)
+* [Adopting Worst-Case Optimal Joins in Relational Database Systems](http://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) Michael Freitag et al. (VLDB 2020): WCOJs in the context of the Umbra compiled columnar RDBMS
+* [Towards Multi-way Join Aware Optimizer in SAP HANA](http://www.vldb.org/pvldb/vol13/p3019-wi.pdf) by Sungheun Wi et al. (VLDB 2020)
+* [A Worst-Case Optimal Join Algorithm for SPARQL](http://aidanhogan.com/docs/SPARQL_worst_case_optimal.pdf) by Aidan Hogan et al. (ISWC 2019)
 
 ## Papers on graph analytics
 
