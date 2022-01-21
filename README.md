@@ -31,16 +31,16 @@ Papers from the University of Waterloo:
 
 * [Distributed Evaluation of Subgraph Queries Using Worst-case Optimal Low-Memory Dataflows](http://www.vldb.org/pvldb/vol11/p691-ammar.pdf) (VLDB 2017)
 * [Optimizing subgraph queries by combining binary and worst-case optimal joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) (VLDB 2019)
-* [A Worst-Case Optimal Join Algorithm for SPARQL](http://aidanhogan.com/docs/SPARQL_worst_case_optimal.pdf) (ISWC 2019)
-* [Towards Multi-way Join Aware Optimizer in SAP HANA](http://www.vldb.org/pvldb/vol13/p3019-wi.pdf) (VLDB 2020)
-* [GRainDB: A Hybrid Graph-Relational DBMS](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/semih-salihoglu-graindb.pdf) ([recording](https://www.youtube.com/watch?v=FFK3y6vPHJs)) by Semih Salihoglu (LDBC TUC 2021)
-    * [GRainDB: A Relational-core Graph-Relational DBMS](http://cidrdb.org/cidr2022/papers/p57-jin.pdf) (CIDR 2022) ([recording](https://www.youtube.com/watch?v=KtbZ6YEDvo8))
+* [GRainDB: A Relational-core Graph-Relational DBMS](http://cidrdb.org/cidr2022/papers/p57-jin.pdf) (CIDR 2022) ([recording](https://www.youtube.com/watch?v=KtbZ6YEDvo8))
+  * [GRainDB: A Hybrid Graph-Relational DBMS](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/semih-salihoglu-graindb.pdf) ([recording](https://www.youtube.com/watch?v=FFK3y6vPHJs)) by Semih Salihoglu (LDBC TUC 2021)
 * [Integrating Column-Oriented Storage and Query Processing Techniques Into Graph Database Management Systems](https://arxiv.org/pdf/2103.02284.pdf) (VLDB 2021)
 * [Making RDBMSs Efficient on Graph Workloads Through Predefined Joins](https://arxiv.org/pdf/2108.10540.pdf) (VLDB 2022)
 
-Papers from TU Munich:
+Other papers:
 
 * [Adopting Worst-Case Optimal Joins in Relational Database Systems](http://www.vldb.org/pvldb/vol13/p1891-freitag.pdf) in the context of Umbra (VLDB 2020)
+* [Towards Multi-way Join Aware Optimizer in SAP HANA](http://www.vldb.org/pvldb/vol13/p3019-wi.pdf) (VLDB 2020)
+* [A Worst-Case Optimal Join Algorithm for SPARQL](http://aidanhogan.com/docs/SPARQL_worst_case_optimal.pdf) (ISWC 2019)
 
 ## Papers on graph analytics
 
