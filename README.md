@@ -29,12 +29,12 @@
 
 Papers from the University of Waterloo:
 
-* [Distributed Evaluation of Subgraph Queries Using Worst-case Optimal Low-Memory Dataflows](http://www.vldb.org/pvldb/vol11/p691-ammar.pdf) (VLDB 2017)
-* [Optimizing subgraph queries by combining binary and worst-case optimal joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) (VLDB 2019)
-* [GRainDB: A Relational-core Graph-Relational DBMS](http://cidrdb.org/cidr2022/papers/p57-jin.pdf) (CIDR 2022) ([recording](https://www.youtube.com/watch?v=KtbZ6YEDvo8))
+* [Distributed Evaluation of Subgraph Queries Using Worst-case Optimal Low-Memory Dataflows](http://www.vldb.org/pvldb/vol11/p691-ammar.pdf) by Khaled Ammar et al. (VLDB 2017)
+* [Optimizing subgraph queries by combining binary and worst-case optimal joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) by Amine Mhedhbi et al. (VLDB 2019)
+* [GRainDB: A Relational-core Graph-Relational DBMS](http://cidrdb.org/cidr2022/papers/p57-jin.pdf) ([recording](https://www.youtube.com/watch?v=KtbZ6YEDvo8)) by Guodong Jin et al. (CIDR 2022)
   * [GRainDB: A Hybrid Graph-Relational DBMS](https://ldbcouncil.org/event/fourteenth-tuc-meeting/attachments/semih-salihoglu-graindb.pdf) ([recording](https://www.youtube.com/watch?v=FFK3y6vPHJs)) by Semih Salihoglu (LDBC TUC 2021)
-* [Integrating Column-Oriented Storage and Query Processing Techniques Into Graph Database Management Systems](https://arxiv.org/pdf/2103.02284.pdf) (VLDB 2021)
-* [Making RDBMSs Efficient on Graph Workloads Through Predefined Joins](https://arxiv.org/pdf/2108.10540.pdf) (VLDB 2022)
+* [Integrating Column-Oriented Storage and Query Processing Techniques Into Graph Database Management Systems](https://arxiv.org/pdf/2103.02284.pdf) by Pranjal Gupta et al. (VLDB 2021)
+* [Making RDBMSs Efficient on Graph Workloads Through Predefined Joins](https://arxiv.org/pdf/2108.10540.pdf) by Guodong Jin and Semih Salihoglu (VLDB 2022)
 
 Other papers:
 
