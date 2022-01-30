@@ -1,4 +1,4 @@
-# Efficient Graph Processing Using Relational Operators
+# Graph Processing Using Relational Operators
 
 ## Worst-Case Optimal Join (WCOJ) Algorithms and Factorized Query Processing
 
