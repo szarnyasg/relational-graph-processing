@@ -7,10 +7,10 @@
 
 ## Lectures and Tutorials
 
-* [Lecture by Semih Salihoglu: GraphflowDB and Modern Query Processing Techniques for GDBMSs](https://www.youtube.com/watch?v=Hn2XRv8dU5k) at Pinterest Labs (2021) `[WCOJ]` `[FACT]`
-* [Lecture by Dan Olteanu](https://www.youtube.com/watch?v=KYgG72oQhOw) (2018) `[WCOJ]` `[FACT]`
-* [Lectures series by Dan Olteanu](https://www.youtube.com/watch?v=uaHSAolWTiI&list=PLVjVSqmQgPG_6XsFfv9sTMd5EpWjkfRiX) `[WCOJ]` `[FACT]`
-  * [Slides](http://www.cs.ox.ac.uk/dan.olteanu/tutorials/fdb-turing17.pdf)
+* [GraphflowDB and Modern Query Processing Techniques for GDBMSs](https://www.youtube.com/watch?v=Hn2XRv8dU5k), 1-hour lecture by Semih Salihoglu at Pinterest Labs (2021) `[WCOJ]` `[FACT]`
+* [From joins to aggregates and optimization problems](https://www.youtube.com/watch?v=KYgG72oQhOw), lecture by Dan Olteanu (2018) `[WCOJ]` `[FACT]`
+* [From Joins to aggregates and optimization Problems](https://www.youtube.com/watch?v=uaHSAolWTiI&list=PLVjVSqmQgPG_6XsFfv9sTMd5EpWjkfRiX), lectures series by Dan Olteanu `[WCOJ]` `[FACT]`
+* [Factorised databases](http://www.cs.ox.ac.uk/dan.olteanu/tutorials/fdb-turing17.pdf), [YouTube](https://www.youtube.com/watch?v=_wUOcDkxAzE), short lecture by Dan Olteanu (2017) `[FACT`]
 * SIGMOD 2020 tutorial: [Optimal Join Algorithms Meet Top-k](https://northeastern-datalab.github.io/topk-join-tutorial/) `[WCOJ]`
 * [LIquid: Soul of a New Graph Database](https://uwaterloo.ca/data-systems-group/events/dsg-seminar-series-liquid-soul-new-graph-database) by Scott Meyer, presented at the University of Waterloo's DSG Seminar Series
   * [YouTube](https://www.youtube.com/watch?v=wKx-YZn9YQk)
