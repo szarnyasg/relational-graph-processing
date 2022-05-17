@@ -8,7 +8,7 @@
 ## Lectures and Tutorials
 
 * [GraphflowDB and Modern Query Processing Techniques for GDBMSs](https://www.youtube.com/watch?v=Hn2XRv8dU5k), 1-hour lecture by Semih Salihoglu at Pinterest Labs (2021) `[WCOJ]` `[FACT]`
-* [From joins to aggregates and optimization problems](https://www.youtube.com/watch?v=KYgG72oQhOw), lecture by Dan Olteanu (2018) `[WCOJ]` `[FACT]`
+* [From joins to aggregates and optimization problems](https://www.youtube.com/watch?v=KYgG72oQhOw) ([slides](http://www.cs.ox.ac.uk/dan.olteanu/tutorials/Turing-jan18.pdf)), lecture by Dan Olteanu (2018) `[WCOJ]` `[FACT]`
 * [From joins to aggregates and optimization problems](https://www.youtube.com/watch?v=uaHSAolWTiI&list=PLVjVSqmQgPG_6XsFfv9sTMd5EpWjkfRiX), lectures series by Dan Olteanu (2018) `[WCOJ]` `[FACT]`
 * [Factorised databases](https://www.youtube.com/watch?v=_wUOcDkxAzE), [slides](http://www.cs.ox.ac.uk/dan.olteanu/tutorials/fdb-turing17.pdf), short lecture by Dan Olteanu (2017) `[FACT`]
 * SIGMOD 2020 tutorial: [Optimal Join Algorithms Meet Top-k](https://northeastern-datalab.github.io/topk-join-tutorial/) `[WCOJ]`
