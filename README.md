@@ -14,6 +14,7 @@
 * SIGMOD 2020 tutorial: [Optimal Join Algorithms Meet Top-k](https://northeastern-datalab.github.io/topk-join-tutorial/) `[WCOJ]`
 * [LIquid: Soul of a New Graph Database](https://uwaterloo.ca/data-systems-group/events/dsg-seminar-series-liquid-soul-new-graph-database) by Scott Meyer, presented at the University of Waterloo's DSG Seminar Series
   * [YouTube](https://www.youtube.com/watch?v=wKx-YZn9YQk)
+* [Relational databases can handle graphs too! Experiences with optimizing the Umbra RDBMS for LDBC SNB BI](https://youtu.be/cRgbdY3I2i4) ([slides](https://ldbcouncil.org/event/fifteenth-tuc-meeting/attachments/altan-birler-relational-databases-can-handle-graphs-too.pdf)) by Altan Birler (Technische Universität München), presented at the 15th LDBC TUC
 
 ## Papers on worst-case optimal joins
 
